@@ -16,4 +16,4 @@ In the second pass, the 'state' (modeled by a dictionary) is constructed. This i
 
 # Usage
 
-Example : python3 parser.py ./test/fact.txt
+Example : ```python3 parser.py ./test/fact.txt```
